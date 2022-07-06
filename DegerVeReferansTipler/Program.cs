@@ -24,6 +24,7 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;  //sayılar1 in referans no su sayılar2 nin referans numarasına eşittir
             sayilar2[0] = 999;
             //sayilar1[0]? :999
+
         }
     }
 }
